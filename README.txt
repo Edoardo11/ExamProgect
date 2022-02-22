@@ -1,6 +1,6 @@
 Necessario:
 
-Esegui users.sql in phpmyadmin
+Esegui users.sql in phpmyadmin in un db di nome my_db
 
 Carica il progetto nella cartella Xampp\htdocs\
 
