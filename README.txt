@@ -4,7 +4,7 @@ Esegui users.sql in phpmyadmin
 
 Carica il progetto nella cartella Xampp\htdocs\
 
-In db.php e db_connect è possibile modificare le informazioni relative alla connesione con il database.
+In db.php e db_connect.php è possibile modificare le informazioni relative alla connesione con il database.
 
 Apri registration.php per registrazione 
 Apri login.php per accedere
