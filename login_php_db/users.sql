@@ -1,3 +1,4 @@
+/*
 CREATE TABLE `users` (
   `uid` bigint(20) NOT NULL,
   `name` varchar(255) DEFAULT NULL,
@@ -12,3 +13,4 @@ ALTER TABLE `users`
 ALTER TABLE `users`
   MODIFY `uid` bigint(20) NOT NULL AUTO_INCREMENT;
 COMMIT;
+*/
