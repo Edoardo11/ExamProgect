@@ -12,4 +12,3 @@ ALTER TABLE `users`
 
 ALTER TABLE `users`
   MODIFY `uid` bigint(20) NOT NULL AUTO_INCREMENT;
-COMMIT;
